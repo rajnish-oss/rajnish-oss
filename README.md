@@ -60,6 +60,7 @@ I specialize in bridging the gap between **Generative AI** and scalable software
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajnish-oss&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish-oss&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
