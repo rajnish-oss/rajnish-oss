@@ -56,13 +56,6 @@ I specialize in bridging the gap between **Generative AI** and scalable software
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajnish-oss)](https://github.com/rajnish-oss/github-readme-stats)
-</p>
-
----
 ### 📈 Leetcode Stats
 <p align="center">
   <a href="https://leetcode.com/CGy15FS38j">
